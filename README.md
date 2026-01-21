@@ -116,40 +116,6 @@ const sushovan = {
 
 ---
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sushovancpp&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🎯 Featured Projects
-
-<div align="center">
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sushovancpp&repo=placement-guide&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=E5E7EB)](https://github.com/sushovancpp)
-
-</div>
-
-<div align="center">
-<i>⭐ More awesome projects on my <a href="https://github.com/sushovancpp?tab=repositories">GitHub repositories</a></i>
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 <div align="center">
