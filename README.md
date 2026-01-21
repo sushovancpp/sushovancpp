@@ -69,8 +69,6 @@ const sushovan = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushovancpp&show_icons=true&theme=radical&hide_border=true" alt="stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sushovancpp&theme=radical&hide_border=true" alt="streak" />
-
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushovancpp&layout=compact&theme=radical&hide_border=true" alt="langs" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=sushovancpp&theme=react-dark&hide_border=true" alt="graph" />
 
