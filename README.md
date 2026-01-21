@@ -106,7 +106,6 @@ const sushovan = {
   
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sushovancpp&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=8B5CF6&text_color=E5E7EB" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sushovancpp&theme=radical&hide_border=true&background=0D1117&stroke=3B82F6&ring=8B5CF6&fire=F59E0B&currStreakLabel=E5E7EB&sideNums=E5E7EB&currStreakNum=3B82F6&sideLabels=E5E7EB" alt="GitHub Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushovancpp&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=E5E7EB" alt="Top Languages" />
 
