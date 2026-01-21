@@ -115,13 +115,25 @@ const sushovan = {
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="mailto:masantasushovan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-masantasushovan%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-📧 **Email:** masantasushovan@gmail.com  
-💼 **LinkedIn:** [Sushovan Masanta](https://www.linkedin.com/in/sushovan-masanta-a71227256)  
-🌐 **Portfolio:** [sushovan-masanta-portfolio.vercel.app](https://sushovan-masanta-portfolio.vercel.app/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sushovan-masanta-a71227256" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sushovan%20Masanta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://sushovan-masanta-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-sushovan--masanta--portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
