@@ -18,33 +18,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sushovan-masanta-portfolio.vercel.app/)
 
 </div>
-
----
-
-## 🚀 About Me
-
-```javascript
-const sushovan = {
-    currentFocus: "Building Personalized Placement Guide Tool",
-    learning: ["React Ecosystem", "Node.js Backend", "System Design", "Advanced DSA"],
-    interests: ["Full Stack Development", "Problem Solving", "Open Source"],
-    askMeAbout: ["Web Dev", "JavaScript", "SQL", "Data Structures"],
-    funFact: "I turn coffee into code ☕ → 💻"
-};
-```
-
-<details>
-<summary><b>🎯 Current Goals</b></summary>
-<br/>
-
-- 🔨 Building production-ready full stack applications
-- 📚 Solving 500+ DSA problems across platforms
-- 🎓 Learning system design and scalability patterns
-- 🌟 Contributing to open source projects
-- 💼 Preparing for product-based company interviews
-
-</details>
-
 ---
 
 ## 🛠️ Technology Arsenal
