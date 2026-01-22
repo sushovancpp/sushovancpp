@@ -18,7 +18,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sushovan-masanta-portfolio.vercel.app/)
 
 </div>
----
 
 ## 🛠️ Technology Arsenal
 
