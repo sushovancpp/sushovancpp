@@ -99,7 +99,6 @@ const sushovan = {
 
 <div align="center">
 
-```mermaid
 mindmap
   root((Sushovan))
     Learning
