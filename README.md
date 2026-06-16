@@ -53,6 +53,13 @@
 [![Sushovan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushovancpp&bg_color=ffffff&color=58A6FF&line=58A6FF&point=58A6FF&text_color=58A6FF&hide_border=false&area=true&area_color=dbeafe&radius=8#gh-light-mode-only)](https://github.com/sushovancpp#gh-light-mode-only)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bot5530/bot5530/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bot5530/bot5530/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bot5530/bot5530/output/github-snake.svg" width="100%" />
+</picture>
+
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
