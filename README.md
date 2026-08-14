@@ -48,13 +48,9 @@
 | [![Sushovan GitHub Stats](https://github-readme-stats-mc4l.vercel.app/api?username=sushovancpp&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews&title_color=000000&icon_color=58A6FF&text_color=58A6FF&border_color=000000&border_radius=8)](https://github.com/sushovancpp#gh-light-mode-only) | [![Sushovan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sushovancpp&background=transparent&ring=58A6FF&border_radius=8&currStreakLabel=000000&currStreakNum=58A6FF&sideNums=000000&sideLabels=58A6FF&dates=000000)](https://github.com/sushovancpp#gh-light-mode-only) |
 
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/sushovancpp/sushovancpp/main/assets/contributions.svg"
-    alt="Sushovan's GitHub contribution graph (includes private contributions)"
-    width="100%"
-  />
-</p>
+[![Sushovan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushovancpp&bg_color=transparent&color=58A6FF&line=58A6FF&point=ffffff&title_color=ffffff&hide_border=false&area=true&area_color=1e3a5f&radius=8#gh-dark-mode-only)](https://github.com/sushovancpp#gh-dark-mode-only)
+
+[![Sushovan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=sushovancpp&bg_color=ffffff&color=58A6FF&line=58A6FF&point=58A6FF&text_color=58A6FF&hide_border=false&area=true&area_color=dbeafe&radius=8#gh-light-mode-only)](https://github.com/sushovancpp#gh-light-mode-only)
 
 
 <picture>
