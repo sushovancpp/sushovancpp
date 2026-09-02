@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sushovan%20Masanta&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
 </div>
-
+ 
 <div align="center">
   <a href="https://www.linkedin.com/in/sushovan-masanta-a71227256"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:masantasushovan@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
