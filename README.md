@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sushovan%20Masanta&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sushovan%20Masanta&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Site%20Reliability&descAlignY=60&descAlign=50" width="100%"/>
 </div>
  
 <div align="center">
@@ -12,7 +12,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sushovan+%F0%9F%91%8B;Full+Stack+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+debug+with+console.log()+proudly+%F0%9F%98%84;Building+clean%2C+scalable+web+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Sushovan+%F0%9F%91%8B;Site+Reliability+Developer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+debug+with+console.log()+proudly+%F0%9F%98%84;Building+clean%2C+scalable+web+apps" alt="Typing SVG" />
 </div>
 
 <br/>
